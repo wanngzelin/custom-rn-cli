@@ -1,6 +1,7 @@
 {
-  "name": "template",
+  "name": "{{name}}",
   "version": "0.0.1",
+  "description": "{{description}}",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -9,6 +10,7 @@
     "test": "jest",
     "lint": "eslint ."
   },
+  "author": "{{author}}",
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.13.2",
     "@react-native-community/masked-view": "^0.1.10",
