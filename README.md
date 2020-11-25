@@ -8,6 +8,9 @@
 - 文件基础目录分区
 - ts集成与配置完成
 - 文件路径映射完成
+- 缓存基础封装
+- 全局loading，调用utils/show,hide即可实现
+- 常用验证工具 utils/verifyTools.js
 
 ####*后续完成工作*
 - 封装请求工具类
